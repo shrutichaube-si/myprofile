@@ -1,6 +1,6 @@
  {
  "apis" :{
-    "register": "https://myprofile-backend-c3sg.onrender.com/auth/register",
-    "login": "https://myprofile-backend-c3sg.onrender.com/auth/login"
+    "register": "https://myprofile-backend-mqnd.onrender.com/auth/register",
+    "login": "https://myprofile-backend-mqnd.onrender.com/auth/login"
 }
  }
