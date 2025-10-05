@@ -18,7 +18,7 @@ export default function Register() {
             console.log(values);
             const data = await axios.post(config.apis.register, values)
             setResponse(data);
-            if (response.status === 201) {
+            if (data.status === 201) {
                 navigate('/login');
             } else {
                 console.log("something went wrong");
